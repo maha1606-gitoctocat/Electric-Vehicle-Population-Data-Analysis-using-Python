@@ -90,15 +90,35 @@ Performed descriptive statistics including:
 
 
 
-## Key Business Insights
-
-- Battery Electric Vehicles (BEVs) dominate the dataset, indicating strong consumer preference for fully electric vehicles.
-- Tesla is the leading manufacturer with the highest number of vehicle registrations.
-- Model Y and Model 3 are the most popular electric vehicle models.
-- King County and Seattle record the highest EV registrations, reflecting greater adoption in urban regions.
-- BEVs provide higher average electric driving ranges than PHEVs.
-- Recent model years show rapid growth in EV registrations, highlighting increasing market adoption.
-- Most vehicles are either CAFV-eligible or have pending eligibility, supporting the expansion of clean transportation initiatives.
+## Key Insights
+📁 Total Records Analyzed: 1,999 electric vehicle registrations.
+⚡ Battery Electric Vehicles (BEVs): 1,567 (78.4%)
+🔋 Plug-in Hybrid Electric Vehicles (PHEVs): 432 (21.6%)
+🚗 Top Manufacturer: Tesla with 786 registered vehicles.
+🏆 Most Registered EV Model: Tesla Model Y with 401 registrations, followed by Tesla Model 3 with 299 registrations.
+🌍 Top County: King County with 1,194 EV registrations.
+🏙️ Top City: Seattle with 338 EV registrations.
+📈 Average Electric Driving Range:
+BEVs: 60.76 miles
+PHEVs: 31.81 miles
+🌱 CAFV Eligibility Distribution:
+Eligible: 733
+Not Eligible: 180
+Unknown: 1,086
+📅 Highest Registration Year: 2023 with 393 vehicle registrations, indicating rapid growth in EV adoption.
+🔋 Highest Average Electric Range by Manufacturer: Jaguar with 234.0 miles.
+📊 Top 5 Manufacturers by Registration Count:
+Tesla – 786
+Nissan – 151
+Chevrolet – 148
+Kia – 125
+BMW – 103
+🚙 Top 5 EV Models by Registration Count:
+Model Y – 401
+Model 3 – 299
+Leaf – 151
+Model S – 70
+Model X – 58
 
 
 ## Visualizations Included
